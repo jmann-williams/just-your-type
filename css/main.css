@@ -1,0 +1,19 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  background: linear-gradient(90deg, #d8e9ef 50%, #f4f4f4 50%);
+}
+
+.title {
+  font-family: Kanit, sans-serif;
+  letter-spacing: .1em;
+  color: #253a41;
+}
+
+.body {
+  font-family: Lora, sans-serif;
+  letter-spacing: .1em;
+  color: #253a41;
+}
